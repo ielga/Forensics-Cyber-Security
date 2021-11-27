@@ -1,0 +1,223 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 4649,
+            "MinorBuildNumber": 18,
+            "Version": "V2018_01_08"
+        }
+    },
+    "Body": {
+        "Conversations": [
+            {
+                "ConversationId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEAD/OJMFQ5tmR5M0qfJLsM8J"
+                },
+                "ConversationTopic": "Have you fixed the computer?",
+                "UniqueRecipients": [
+                    "frederickbalconies@hotmail.com"
+                ],
+                "LastDeliveryTime": "2021-10-30T11:44:42+01:00",
+                "HasAttachments": false,
+                "MessageCount": 1,
+                "GlobalMessageCount": 2,
+                "UnreadCount": 0,
+                "GlobalUnreadCount": 0,
+                "Size": 60093,
+                "ItemClasses": [
+                    "IPM.Note"
+                ],
+                "Importance": "Normal",
+                "ItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHLAAAA"
+                    }
+                ],
+                "GlobalItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUJt40AAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHLAAAA"
+                    }
+                ],
+                "LastModifiedTime": "2021-10-30T15:23:57+01:00",
+                "InstanceKey": "AQAAAAAAAQABAAAAFCbWXgAAAAA=",
+                "Preview": "Hello Frederick,\r\n\r\nDid you have time to fix my daugther's computer? She has been complaining about it all week... Thank you!\r\n\r\nLFV",
+                "HasIrm": false,
+                "IsLocked": false,
+                "FamilyId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEAD/OJMFQ5tmR5M0qfJLsM8J"
+                },
+                "LastDeliveryOrRenewTime": "2021-10-30T11:44:42+01:00",
+                "LastSentTime": "2021-10-30T11:44:42+01:00",
+                "HasAttachmentPreviews": false,
+                "LastSender": {
+                    "Mailbox": {
+                        "Name": "Levy Fran Velucci",
+                        "RoutingType": "SMTP"
+                    }
+                }
+            },
+            {
+                "ConversationId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEABKlnanbvBfRbVWuGHsE09p"
+                },
+                "ConversationTopic": "Where are my chickens?",
+                "UniqueRecipients": [
+                    "Ryan Coast"
+                ],
+                "LastDeliveryTime": "2021-10-30T11:33:26+01:00",
+                "HasAttachments": false,
+                "MessageCount": 1,
+                "GlobalMessageCount": 3,
+                "UnreadCount": 0,
+                "GlobalUnreadCount": 0,
+                "Size": 63013,
+                "ItemClasses": [
+                    "IPM.Note"
+                ],
+                "Importance": "Normal",
+                "ItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHKAAAA"
+                    }
+                ],
+                "GlobalItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUbdIFAAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHKAAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUJt4zAAAA"
+                    }
+                ],
+                "LastModifiedTime": "2021-10-30T15:23:40+01:00",
+                "InstanceKey": "AQAAAAAAAQABAAAAFCbWXQAAAAA=",
+                "Preview": "Easy Ryan, don't worry! Now that things have become calmer, I will send you your share of the deal today.\r\n\r\nI have already told you that I don't know how to use this bitcoin thing, so I'll just transfer it by the traditional way during my lunch break.\r\nI",
+                "GlobalIconIndex": "MailReplied",
+                "HasIrm": false,
+                "IsLocked": false,
+                "FamilyId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEABKlnanbvBfRbVWuGHsE09p"
+                },
+                "LastDeliveryOrRenewTime": "2021-10-30T11:33:26+01:00",
+                "LastSentTime": "2021-10-30T11:33:26+01:00",
+                "HasAttachmentPreviews": false,
+                "LastSender": {
+                    "Mailbox": {
+                        "Name": "Levy Fran Velucci",
+                        "EmailAddress": "levyfvelucci@outlook.com",
+                        "RoutingType": "SMTP"
+                    }
+                }
+            },
+            {
+                "ConversationId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                },
+                "ConversationTopic": "Dinner celebration",
+                "UniqueRecipients": [
+                    "George Sednem",
+                    "ryancoast10@outlook.com"
+                ],
+                "LastDeliveryTime": "2021-10-30T11:11:14+01:00",
+                "HasAttachments": false,
+                "MessageCount": 1,
+                "GlobalMessageCount": 5,
+                "UnreadCount": 0,
+                "GlobalUnreadCount": 0,
+                "Size": 58451,
+                "ItemClasses": [
+                    "IPM.Note"
+                ],
+                "Importance": "Normal",
+                "ItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHJAAAA"
+                    }
+                ],
+                "GlobalItemIds": [
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUbdIHAAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUbdIGAAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHJAAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCgAAABCrPbyCbrlGnv48t4gSzjIAAAAUJrz5AAAA"
+                    },
+                    {
+                        "__type": "ItemId:#Exchange",
+                        "ChangeKey": "CQAAAA==",
+                        "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUJt4yAAAA"
+                    }
+                ],
+                "LastModifiedTime": "2021-10-30T15:23:20+01:00",
+                "InstanceKey": "AQAAAAAAAQABAAAAFCbWXAAAAAA=",
+                "Preview": "Hello George,\r\n\r\nWhat an amazing deal that we were able to pull through!\r\nThis celebration is long overdue, I am in!\r\nIf Ryan agrees, Solar do Presuntos sounds great.\r\n\r\nLFV\r\n________________________________\r\nFrom: George Sednem <georgesednem@gmail.com>",
+                "GlobalIconIndex": "MailReplied",
+                "HasIrm": false,
+                "IsLocked": false,
+                "FamilyId": {
+                    "__type": "ItemId:#Exchange",
+                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                },
+                "LastDeliveryOrRenewTime": "2021-10-30T11:11:14+01:00",
+                "LastSentTime": "2021-10-30T11:11:14+01:00",
+                "HasAttachmentPreviews": false,
+                "LastSender": {
+                    "Mailbox": {
+                        "Name": "Levy Fran Velucci",
+                        "EmailAddress": "levyfvelucci@outlook.com",
+                        "RoutingType": "SMTP"
+                    }
+                }
+            }
+        ],
+        "TotalConversationsInView": 3,
+        "IndexedOffset": 3,
+        "FolderId": {
+            "__type": "FolderId:#Exchange",
+            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAAA==",
+            "ChangeKey": "AQAAAA=="
+        },
+        "ResponseCode": "NoError",
+        "ResponseClass": "Success"
+    }
+}

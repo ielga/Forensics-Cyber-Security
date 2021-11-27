@@ -1,0 +1,615 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 4649,
+            "MinorBuildNumber": 19,
+            "Version": "V2018_01_18"
+        }
+    },
+    "Body": {
+        "__type": "GetConversationItemsResponse:#Exchange",
+        "ResponseMessages": {
+            "Items": [
+                {
+                    "__type": "GetConversationItemsResponseMessage:#Exchange",
+                    "Conversation": {
+                        "ConversationId": {
+                            "__type": "ItemId:#Exchange",
+                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                        },
+                        "SyncState": "AQEAAAAUJt4yAgEAAAAUJvHJAwEAAAAUbdIGBAEAAAAUbdIH",
+                        "ConversationNodes": [
+                            {
+                                "InternetMessageId": "<CAHko=zYT6W6s=f7w2rtyOr5PoG2Wn3nymkFTZC1E3sj4r2Pdpw@mail.gmail.com>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "levyfvelucci@outlook.com",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false
+                                            },
+                                            {
+                                                "Name": "ryancoast10@outlook.com",
+                                                "EmailAddress": "ryancoast10@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUI+F2",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUJt4yAAAA"
+                                        },
+                                        "CcRecipients": [],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Dinner celebration",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T10:59:54+01:00",
+                                        "InternetMessageId": "<CAHko=zYT6W6s=f7w2rtyOr5PoG2Wn3nymkFTZC1E3sj4r2Pdpw@mail.gmail.com>",
+                                        "Size": 32736,
+                                        "IsRead": true,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T10:59:42+01:00",
+                                        "DateTimeCreated": "2021-10-30T10:59:54+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 2
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "levyfvelucci@outlook.com; ryancoast10@outlook.com",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Dinner celebration"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1081",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "103"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1082",
+                                                    "PropertyType": "SystemTime"
+                                                },
+                                                "Value": "2021-10-30T11:11:14+01:00"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1145541"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T11:11:14+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div dir=\"ltr\">\r\n<div>\r\n<div dir=\"ltr\">Hello fine gentlemen,<br>\r\n\r\n<br>\r\n\r\nHow are you enjoying your cut from our chicken business deal?<br>\r\n\r\nIt is now almost 2 months since we closed the deal and all the dust has settled. Everybody has already forgotten about it, so I think it is time to celebrate. <br>\r\n\r\n<br>\r\n\r\nWhat do you think about a dinner celebration with just the 3 of us? Maybe we can go to Solar do Presuntos, Levy's favorite.<br>\r\n\r\n<br>\r\n\r\nBest regards,<br>\r\n\r\nGeorge Sednem<br>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQwBAAAAFCbeMgAAAAA=",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Hello fine gentlemen, How are you enjoying your cut from our chicken business deal? It is now almost 2 months since we closed the deal and all the dust has settled. Everybody has already forgotten about it, so I think it is time to celebrate. What do you think",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "IconIndex": "MailReplied",
+                                        "ReceivedOrRenewTime": "2021-10-30T10:59:54+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQANrlbm4AdNjtQ4zE6H5b8d0NEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": true
+                            },
+                            {
+                                "InternetMessageId": "<PR3P193MB08299D81FADB98923DE0E06EDF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                "ParentInternetMessageId": "<CAHko=zYT6W6s=f7w2rtyOr5PoG2Wn3nymkFTZC1E3sj4r2Pdpw@mail.gmail.com>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            },
+                                            {
+                                                "Name": "ryancoast10@outlook.com",
+                                                "EmailAddress": "ryancoast10@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUI+GQ",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHJAAAA"
+                                        },
+                                        "CcRecipients": [],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Re: Dinner celebration",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T11:11:14+01:00",
+                                        "InternetMessageId": "<PR3P193MB08299D81FADB98923DE0E06EDF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 58451,
+                                        "IsRead": true,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T11:11:14+01:00",
+                                        "DateTimeCreated": "2021-10-30T11:10:11+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 2
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "George Sednem; ryancoast10@outlook.com",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Dinner celebration"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1145550"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T11:11:15+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div dir=\"ltr\">\r\n<div style=\"color:black;font-size:12pt;font-family:Calibri,Arial,Helvetica,sans-serif;\">\r\nHello George, \r\n<div><br>\r\n\r\n</div>\r\n<div>What an amazing deal that we were able to pull through!</div>\r\n<div>This celebration is long overdue, I am in!</div>\r\n<div>If Ryan agrees, Solar do Presuntos sounds great.</div>\r\n<div><br>\r\n\r\n</div>\r\n<span>LFV</span><br>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQkBAAAAFCbxyQAAAAA=",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Hello George, What an amazing deal that we were able to pull through! This celebration is long overdue, I am in! If Ryan agrees, Solar do Presuntos sounds great. LFV ",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-30T11:11:14+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQANrlbm4AdNjtQ4zE6H5b8d0NEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true,
+                                        "LastSmartResponseTime": "2021-10-30T11:11:14+01:00"
+                                    }
+                                ],
+                                "IsRootNode": false,
+                                "HasQuotedText": true
+                            },
+                            {
+                                "InternetMessageId": "<AM9P193MB14769805BF4886C912506D92B3889@AM9P193MB1476.EURP193.PROD.OUTLOOK.COM>",
+                                "ParentInternetMessageId": "<PR3P193MB08299D81FADB98923DE0E06EDF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Ryan Coast",
+                                                "EmailAddress": "ryancoast10@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox",
+                                                "Submitted": false
+                                            },
+                                            {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUarOj",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUbdIGAAAA"
+                                        },
+                                        "CcRecipients": [],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Re: Dinner celebration",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Ryan Coast",
+                                                "EmailAddress": "ryancoast10@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T14:18:48+01:00",
+                                        "InternetMessageId": "<AM9P193MB14769805BF4886C912506D92B3889@AM9P193MB1476.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 80302,
+                                        "IsRead": true,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T14:18:41+01:00",
+                                        "DateTimeCreated": "2021-10-30T14:18:48+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 2
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "Levy Fran Velucci; George Sednem",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Dinner celebration"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1145566"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T14:18:48+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div>\r\n<p>Hello George,<br>\r\n\r\n<br>\r\n\r\nSolar dos Presuntos is fine by me.<br>\r\n\r\n<br>\r\n\r\nRyan Coast</p>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQwBAAAAFG3SBgAAAAA=",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Hello George, Solar dos Presuntos is fine by me. Ryan Coast ",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-30T14:18:48+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQANrlbm4AdNjtQ4zE6H5b8d0NEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": false,
+                                "HasQuotedText": true
+                            },
+                            {
+                                "InternetMessageId": "<CAHko=zZWpc2KzZiZCxvY=UQ7e=V4xjKQtBsd7=huLvmHWv5mkA@mail.gmail.com>",
+                                "ParentInternetMessageId": "<AM9P193MB14769805BF4886C912506D92B3889@AM9P193MB1476.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "Ryan Coast",
+                                                "EmailAddress": "ryancoast10@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUart1",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUbdIHAAAA"
+                                        },
+                                        "CcRecipients": [
+                                            {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox",
+                                                "Submitted": false
+                                            }
+                                        ],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Re: Dinner celebration",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "George Sednem",
+                                                "EmailAddress": "georgesednem@gmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T15:09:55+01:00",
+                                        "InternetMessageId": "<CAHko=zZWpc2KzZiZCxvY=UQ7e=V4xjKQtBsd7=huLvmHWv5mkA@mail.gmail.com>",
+                                        "Size": 77328,
+                                        "IsRead": true,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T15:09:37+01:00",
+                                        "DateTimeCreated": "2021-10-30T15:09:55+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 1,
+                                            "CcRecipientsCount": 1
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "Ryan Coast",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Dinner celebration"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1148567"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T15:10:22+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div>\r\n<div dir=\"ltr\">Great!<br>\r\n\r\nDinner reservation tonight at 8 PM.<br>\r\n\r\n<br>\r\n\r\nBest regards,<br>\r\n\r\nGeorge Sednem<br>\r\n\r\n</div>\r\n<br>\r\n\r\n<div>\r\n<div dir=\"ltr\">Ryan Coast &lt;<a href=\"mailto:ryancoast10@outlook.com\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\">ryancoast10@outlook.com</a>&gt; escreveu no dia sábado, 30/10/2021 à(s) 14:18:<br>\r\n\r\n</div>\r\n<blockquote style=\"margin:0 0 0 0.8ex;padding-left:1ex;border-left:1px solid #CCCCCC;\">\r\n<div>\r\n<p>Hello George,<br>\r\n\r\n<br>\r\n\r\nSolar dos Presuntos is fine by me.<br>\r\n\r\n<br>\r\n\r\nRyan Coast</p>\r\n</div>\r\n</blockquote>\r\n</div>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQwBAAAAFG3SBwAAAAA=",
+                                        "EntityExtractionResult": {
+                                            "EmailAddresses": [
+                                                {
+                                                    "__type": "EmailAddressEntityType:#Exchange",
+                                                    "EmailAddress": "ryancoast10@outlook.com",
+                                                    "Position": "LatestReply"
+                                                }
+                                            ]
+                                        },
+                                        "Preview": "Great! Dinner reservation tonight at 8 PM. Best regards, George Sednem Ryan Coast <ryancoast10@outlook.com> escreveu no dia sábado, 30/10/2021 à(s) 14:18: Hello George, Solar dos Presuntos is fine by me. Ryan Coast ",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-30T15:09:55+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQANrlbm4AdNjtQ4zE6H5b8d0NEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": false,
+                                "IsQuotedTextChanged": true,
+                                "HasQuotedText": true
+                            }
+                        ],
+                        "TotalConversationNodesCount": 4,
+                        "LastModifiedTime": null,
+                        "ConversationDiagnosticsInfo": null
+                    },
+                    "ResponseCode": "NoError",
+                    "ResponseClass": "Success"
+                }
+            ]
+        }
+    }
+}

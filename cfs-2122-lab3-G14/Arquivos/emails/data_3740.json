@@ -1,0 +1,102 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 4649,
+            "MinorBuildNumber": 18,
+            "Version": "V2018_01_08"
+        }
+    },
+    "Body": {
+        "__type": "FindItemResponse:#Exchange",
+        "ResponseMessages": {
+            "Items": [
+                {
+                    "__type": "FindItemResponseMessage:#Exchange",
+                    "RootFolder": {
+                        "__type": "FindItemParentWrapper:#Exchange",
+                        "Items": [
+                            {
+                                "__type": "Message:#Exchange",
+                                "Sender": {
+                                    "Mailbox": {
+                                        "Name": "Levy Fran Velucci",
+                                        "EmailAddress": "levyfvelucci@outlook.com",
+                                        "RoutingType": "SMTP",
+                                        "MailboxType": "OneOff"
+                                    }
+                                },
+                                "ItemId": {
+                                    "__type": "ItemId:#Exchange",
+                                    "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUZc86",
+                                    "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCgAAABCrPbyCbrlGnv48t4gSzjIAAAAUJrz5AAAA"
+                                },
+                                "ParentFolderId": {
+                                    "__type": "FolderId:#Exchange",
+                                    "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBCgAAAA==",
+                                    "ChangeKey": "AQAAAA=="
+                                },
+                                "ItemClass": "IPM.Note",
+                                "IsReadReceiptRequested": false,
+                                "Subject": "Re: Dinner celebration",
+                                "IsDeliveryReceiptRequested": false,
+                                "Sensitivity": "Normal",
+                                "Importance": "Normal",
+                                "From": {
+                                    "Mailbox": {
+                                        "Name": "Levy Fran Velucci",
+                                        "EmailAddress": "levyfvelucci@outlook.com",
+                                        "RoutingType": "SMTP",
+                                        "MailboxType": "OneOff"
+                                    }
+                                },
+                                "DateTimeReceived": "2021-10-30T11:08:51+01:00",
+                                "Size": 5237,
+                                "IsRead": true,
+                                "IsSubmitted": false,
+                                "IsDraft": true,
+                                "DateTimeSent": "2021-10-30T11:08:51+01:00",
+                                "DateTimeCreated": "2021-10-30T11:08:51+01:00",
+                                "DisplayTo": "George Sednem; ryancoast10@outlook.com",
+                                "HasAttachments": false,
+                                "ExtendedProperty": [
+                                    {
+                                        "ExtendedFieldURI": {
+                                            "__type": "ExtendedPropertyUri:#Exchange",
+                                            "PropertyTag": "0xe1d",
+                                            "PropertyType": "String"
+                                        },
+                                        "Value": "Dinner celebration"
+                                    }
+                                ],
+                                "LastModifiedTime": "2021-10-30T13:32:03+01:00",
+                                "ConversationId": {
+                                    "__type": "ItemId:#Exchange",
+                                    "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEADa5W5uAHTY7UOMxOh+W/HdDQ=="
+                                },
+                                "Flag": {
+                                    "FlagStatus": "NotFlagged"
+                                },
+                                "InstanceKey": "AQAAAAAAAQoBAAAAFCa8+QAAAAA=",
+                                "PolicyTag": {
+                                    "Value": "32bd3c5c-2fbc-426f-af98-a03bc24b4375"
+                                },
+                                "Preview": "________________________________\r\nFrom: George Sednem <georgesednem@gmail.com>\r\nSent: Saturday, October 30, 2021 10:59 AM\r\nTo: levyfvelucci@outlook.com <levyfvelucci@outlook.com>; ryancoast10@outlook.com <ryancoast10@outlook.com>\r\nSubject: Dinner celebr",
+                                "ReceivedOrRenewTime": "2021-10-30T11:08:51+01:00",
+                                "InferenceClassification": "Focused"
+                            }
+                        ],
+                        "Groups": null,
+                        "IndexedPagingOffset": 1,
+                        "TotalItemsInView": 1,
+                        "IncludesLastItemInRange": true
+                    },
+                    "HighlightTerms": null,
+                    "ResponseCode": "NoError",
+                    "ResponseClass": "Success"
+                }
+            ]
+        }
+    }
+}

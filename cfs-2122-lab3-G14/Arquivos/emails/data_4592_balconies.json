@@ -1,0 +1,294 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 4649,
+            "MinorBuildNumber": 18,
+            "Version": "V2018_01_18"
+        }
+    },
+    "Body": {
+        "__type": "GetConversationItemsResponse:#Exchange",
+        "ResponseMessages": {
+            "Items": [
+                {
+                    "__type": "GetConversationItemsResponseMessage:#Exchange",
+                    "Conversation": {
+                        "ConversationId": {
+                            "__type": "ItemId:#Exchange",
+                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEAD/OJMFQ5tmR5M0qfJLsM8J"
+                        },
+                        "SyncState": "AQEAAAAUJvHLAgEAAAAUJt40",
+                        "ConversationNodes": [
+                            {
+                                "InternetMessageId": "<PR3P193MB082900D327131DD611A1414ADF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "frederickbalconies@hotmail.com",
+                                                "EmailAddress": "frederickbalconies@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false,
+                                                "RelevanceScore": 0
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUI+I0",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAABCrPbyCbrlGnv48t4gSzjIAAAAUJvHLAAAA"
+                                        },
+                                        "CcRecipients": [],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBCQAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Have you fixed the computer?",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T11:44:42+01:00",
+                                        "InternetMessageId": "<PR3P193MB082900D327131DD611A1414ADF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 60093,
+                                        "IsRead": true,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T11:44:42+01:00",
+                                        "DateTimeCreated": "2021-10-30T11:44:42+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 1
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "frederickbalconies@hotmail.com",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Have you fixed the computer?"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1145559"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T11:44:44+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEAD/OJMFQ5tmR5M0qfJLsM8J"
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div dir=\"ltr\">\r\n<div dir=\"ltr\">\r\n<div style=\"color:black;font-size:12pt;font-family:Calibri,Arial,Helvetica,sans-serif;\">\r\nHello Frederick, \r\n<div><br>\r\n\r\n</div>\r\n<div>Did you have time to fix my daugther's computer? She has been complaining about it all week... Thank you!</div>\r\n<div><br>\r\n\r\n</div>\r\nLFV<br>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQkBAAAAFCbxywAAAAA=",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Hello Frederick, Did you have time to fix my daugther's computer? She has been complaining about it all week... Thank you! LFV ",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-30T11:44:42+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQAP84kwVDm2ZHkzSp8kuwzwkQAP84kwVDm2ZHkzSp8kuwzwk="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": true
+                            },
+                            {
+                                "InternetMessageId": "<PR3P193MB09116EEBC9E8B6475D694BE6DE889@PR3P193MB0911.EURP193.PROD.OUTLOOK.COM>",
+                                "ParentInternetMessageId": "<PR3P193MB082900D327131DD611A1414ADF889@PR3P193MB0829.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Frederick Balconies",
+                                                "EmailAddress": "frederickbalconies@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox",
+                                                "Submitted": false
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAUI+UB",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAUJt40AAAA"
+                                        },
+                                        "CcRecipients": [],
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "BccRecipients": [],
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Re: Have you fixed the computer?",
+                                        "IsDeliveryReceiptRequested": false,
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Frederick Balconies",
+                                                "EmailAddress": "frederickbalconies@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-30T11:57:40+01:00",
+                                        "InternetMessageId": "<PR3P193MB09116EEBC9E8B6475D694BE6DE889@PR3P193MB0911.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 80841,
+                                        "IsRead": false,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "DateTimeSent": "2021-10-30T11:57:37+01:00",
+                                        "DateTimeCreated": "2021-10-30T11:57:40+01:00",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 1
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "DisplayTo": "Levy Fran Velucci",
+                                        "HasAttachments": false,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Have you fixed the computer?"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1145560"
+                                            }
+                                        ],
+                                        "LastModifiedTime": "2021-10-30T11:57:41+01:00",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEAD/OJMFQ5tmR5M0qfJLsM8J"
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<html><body><div>\r\n<div dir=\"ltr\">\r\n<div style=\"color:black;font-size:12pt;font-family:Calibri,Arial,Helvetica,sans-serif;\">\r\nHello Mr. President, \r\n<div><br>\r\n\r\n</div>\r\n<div>I am not at the office right now but your daughter's computer will be ready later today, do not worry.</div>\r\n<div><br>\r\n\r\n</div>\r\n<div>Best regards,</div>\r\nFrederick Balconies<br>\r\n\r\n</div>\r\n</div>\r\n</div>\r\n</body></html>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQwBAAAAFCbeNAAAAAA=",
+                                        "EntityExtractionResult": {},
+                                        "Preview": "Hello Mr. President, I am not at the office right now but your daughter's computer will be ready later today, do not worry. Best regards, Frederick Balconies ",
+                                        "BlockStatus": true,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-30T11:57:40+01:00",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQAP84kwVDm2ZHkzSp8kuwzwkQABb7X+/PtQxKgOsX87IkuuQ="
+                                        },
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": false,
+                                "HasQuotedText": true
+                            }
+                        ],
+                        "TotalConversationNodesCount": 2,
+                        "LastModifiedTime": null,
+                        "ConversationDiagnosticsInfo": null
+                    },
+                    "ResponseCode": "NoError",
+                    "ResponseClass": "Success"
+                }
+            ]
+        }
+    }
+}

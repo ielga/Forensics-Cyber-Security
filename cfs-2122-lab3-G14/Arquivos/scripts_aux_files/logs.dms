@@ -1,0 +1,48 @@
+b'whoami'
+b'levy-velucci\n'
+
+b'ls'
+b'Desktop\nDocuments\nDownloads\nMusic\nPictures\nPublic\nTemplates\nVideos\n'
+
+b'ls Documents'
+b'BankStatements\nClubStatement.pdf\nHow to download movies.txt\nJames_Santos_profile.pdf\nMaldives Trip Plan\nOffshore Accounts\nPrep Season 20-21\nPrep Season 21-22\nTax Report\n'
+
+b'ls Downloads'
+b'812.png\nalternative\nAventador.png\nclub_memo.pdf\nHuracan.png\nR8.png\nred-hawks-video\nred-hawks-video.zip\nSF90.png\nsupporters_memo.pdf\nTaycan.png\n'
+
+b'ls Pictures'
+b'Alexandra Daddario\nDubai Trip\nFamily\nFootball Memes\nMargot Robbie\nScarlett Johansson\nSeason 20-21\nSeason 21-22\n'
+
+b'ls Videos'
+b'007 No Time To Die.mp4\nDune.mp4\nMarvel Eternals.mp4\n'
+
+b'ls Downloads'
+b'812.png\nalternative\nAventador.png\nclub_memo.pdf\nHuracan.png\nR8.png\nred-hawks-video\nred-hawks-video.zip\nSF90.png\nsupporters_memo.pdf\nTaycan.png\n'
+
+b'download_file Downloads/club_memo.pdf'
+a.pdf
+
+b'download_file Downloads/supporters_memo.pdf'
+b.pdf
+
+b'ls Documents'
+b'BankStatements\nClubStatement.pdf\nHow to download movies.txt\nJames_Santos_profile.pdf\nMaldives Trip Plan\nOffshore Accounts\nPrep Season 20-21\nPrep Season 21-22\nTax Report\n'
+
+b'download_file Documents/ClubStatement.pdf'
+c.pdf
+
+b'ls Documents/BankStatements'
+b'April\nAugust\nFebruary\nJanuary\nJuly\nJune\nMarch\nMay\nSeptember\n'
+
+b'ls Documents/BankStatements/September'
+b'bank_statement.pdf\n'
+
+b'download_file Documents/BankStatements/September/bank_statement.pdf'
+d.pdf
+
+b'ls Documents'
+b'BankStatements\nClubStatement.pdf\nHow to download movies.txt\nJames_Santos_profile.pdf\nMaldives Trip Plan\nOffshore Accounts\nPrep Season 20-21\nPrep Season 21-22\nTax Report\n'
+
+b'download_file Documents/James_Santos_profile.pdf'
+e.pdf
+

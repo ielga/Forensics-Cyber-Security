@@ -1,0 +1,198 @@
+{
+    "Header": {
+        "ServerVersionInfo": {
+            "MajorVersion": 15,
+            "MinorVersion": 20,
+            "MajorBuildNumber": 4649,
+            "MinorBuildNumber": 19,
+            "Version": "V2018_01_18"
+        }
+    },
+    "Body": {
+        "__type": "GetConversationItemsResponse:#Exchange",
+        "ResponseMessages": {
+            "Items": [
+                {
+                    "__type": "GetConversationItemsResponseMessage:#Exchange",
+                    "Conversation": {
+                        "ConversationId": {
+                            "__type": "ItemId:#Exchange",
+                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEABMHsunZojERZiKeUwI4LfW"
+                        },
+                        "SyncState": "AQEAAAAU6EwB",
+                        "ConversationNodes": [
+                            {
+                                "InternetMessageId": "<GV1P193MB229327E58158782D4F16768ABD899@GV1P193MB2293.EURP193.PROD.OUTLOOK.COM>",
+                                "Items": [
+                                    {
+                                        "__type": "Message:#Exchange",
+                                        "Sender": {
+                                            "Mailbox": {
+                                                "Name": "Frederick Balconies",
+                                                "EmailAddress": "frederikbalconies@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "ToRecipients": [
+                                            {
+                                                "Name": "levyfvelucci@outlook.com",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff",
+                                                "Submitted": false
+                                            }
+                                        ],
+                                        "ItemId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "ChangeKey": "CQAAABYAAAAQqz28gm65Rp7+PLeIEs4yAAAU5O7q",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAU6EwBAAAA"
+                                        },
+                                        "ParentFolderId": {
+                                            "__type": "FolderId:#Exchange",
+                                            "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoALgAAA30oWgG+QEVOj0hjmQyvIBwBABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAAA==",
+                                            "ChangeKey": "AQAAAA=="
+                                        },
+                                        "ItemClass": "IPM.Note",
+                                        "IsReadReceiptRequested": false,
+                                        "Subject": "Panoramic Video of Stadium",
+                                        "Sensitivity": "Normal",
+                                        "Importance": "Normal",
+                                        "Attachments": [
+                                            {
+                                                "__type": "ReferenceAttachment:#Exchange",
+                                                "AttachLongPathName": "https://1drv.ms/u/s!Aqo92bFDjwdDbK1QjQG_ob008dc",
+                                                "ProviderType": "OneDriveConsumer",
+                                                "ProviderEndpointUrl": "https://s2s-api.onedrive.com/",
+                                                "OriginalPermissionType": 2,
+                                                "AttachmentId": {
+                                                    "Id": "AQMkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoARgAAA30oWgG+QEVOj0hjmQyvIBwHABCrPbyCbrlGnv48t4gSzjIAAAIBDAAAABCrPbyCbrlGnv48t4gSzjIAAAAU6EwBAAAAARIAEAAUdoy064v/RZmSl/tOH5f9"
+                                                },
+                                                "Name": "red-hawks-video.zip",
+                                                "ContentType": "application/zip",
+                                                "ContentId": "",
+                                                "Size": 407,
+                                                "LastModifiedTime": "2021-10-31T15:59:42"
+                                            }
+                                        ],
+                                        "From": {
+                                            "Mailbox": {
+                                                "Name": "Frederick Balconies",
+                                                "EmailAddress": "frederikbalconies@hotmail.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "OneOff"
+                                            }
+                                        },
+                                        "DateTimeReceived": "2021-10-31T15:59:42Z",
+                                        "InternetMessageId": "<GV1P193MB229327E58158782D4F16768ABD899@GV1P193MB2293.EURP193.PROD.OUTLOOK.COM>",
+                                        "Size": 87891,
+                                        "IsRead": false,
+                                        "IsSubmitted": false,
+                                        "IsDraft": false,
+                                        "ReceivedRepresenting": {
+                                            "Mailbox": {
+                                                "Name": "Levy Fran Velucci",
+                                                "EmailAddress": "levyfvelucci@outlook.com",
+                                                "RoutingType": "SMTP",
+                                                "MailboxType": "Mailbox"
+                                            }
+                                        },
+                                        "DateTimeSent": "2021-10-31T15:59:35Z",
+                                        "DateTimeCreated": "2021-10-31T15:59:42Z",
+                                        "ResponseObjects": [
+                                            {
+                                                "__type": "ReplyToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ReplyAllToItem:#Exchange"
+                                            },
+                                            {
+                                                "__type": "ForwardItem:#Exchange"
+                                            }
+                                        ],
+                                        "RecipientCounts": {
+                                            "ToRecipientsCount": 1
+                                        },
+                                        "IsGroupEscalationMessage": false,
+                                        "MessageSafety": {
+                                            "MessageSafetyLevel": 2
+                                        },
+                                        "DisplayTo": "levyfvelucci@outlook.com",
+                                        "HasAttachments": true,
+                                        "ExtendedProperty": [
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0xe1d",
+                                                    "PropertyType": "String"
+                                                },
+                                                "Value": "Panoramic Video of Stadium"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x1016",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "3"
+                                            },
+                                            {
+                                                "ExtendedFieldURI": {
+                                                    "__type": "ExtendedPropertyUri:#Exchange",
+                                                    "PropertyTag": "0x6815",
+                                                    "PropertyType": "Integer"
+                                                },
+                                                "Value": "1151595"
+                                            }
+                                        ],
+                                        "TailoredXpCalendarEventIds": [],
+                                        "LastModifiedTime": "2021-10-31T15:59:43Z",
+                                        "ConversationId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoAEABMHsunZojERZiKeUwI4LfW"
+                                        },
+                                        "UniqueBody": {
+                                            "BodyType": "HTML",
+                                            "Value": "<style type=\"text/css\" style=\"display:none\">\r\n<!--\r\n.rps_4be2 p\r\n\t{margin-top:0;\r\n\tmargin-bottom:0}\r\n-->\r\n</style><div class=\"rps_4be2\"><div dir=\"ltr\"><div id=\"OwaReferenceAttachments\"><table style=\"padding-bottom:13px; border-width:0px; border-style:none\"><tbody><tr valign=\"top\"><td><table style=\"border-width:0px 0px 1px 0px; border-color:#C7C7C7; border-style:none none dotted none\"><tbody><tr valign=\"top\"><td style=\"padding-bottom:7px\"><table align=\"left\" style=\"padding-right:28px; border-width:0px; background-color:rgb(255,255,255); border-spacing:0px\"><tbody><tr valign=\"top\"><td style=\"padding:0px\"><div id=\"OwaReferenceAttachmentDescription\" style=\"padding-left:3px; font-size:14px; font-family:'Segoe UI','Segoe WP','Segoe UI WPC',Tahoma,Arial,sans-serif; color:rgb(102,102,102)\">Frederick Balconies has shared a OneDrive file with you. To view it, click the link below. </div></td></tr></tbody></table></td></tr><tr valign=\"top\"><td><a href=\"https://1drv.ms/u/s!Aqo92bFDjwdDbK1QjQG_ob008dc\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\"><table align=\"left\" style=\"padding-right:28px; padding-bottom:10px; border-width:0px; height:20px; background-color:rgb(255,255,255); border-spacing:0px\"><tbody><tr valign=\"top\"><td style=\"padding:0px\"><div style=\"background-color:rgb(255,255,255); height:20px; width:20px; max-height:20px\"><a href=\"https://1drv.ms/u/s!Aqo92bFDjwdDbK1QjQG_ob008dc\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\"><img data-imagetype=\"External\" src=\"https://r1.res.office365.com/owa/prem/images/dc-zip_20.png\" width=\"20\" style=\"border:0px\"></a></div></td><td><div id=\"OwaReferenceAttachmentFileName2\" style=\"padding:0px 0px 0px 5px; font-size:14px; font-family:'Segoe UI','Segoe WP','Segoe UI WPC',Tahoma,Arial,sans-serif; color:rgb(0,114,198)\"><a href=\"https://1drv.ms/u/s!Aqo92bFDjwdDbK1QjQG_ob008dc\" target=\"_blank\" rel=\"noopener noreferrer\" data-auth=\"NotApplicable\" style=\"text-decoration:none; margin:0px; font-size:14px; font-family:'Segoe UI','Segoe WP','Segoe UI WPC',Tahoma,Arial,sans-serif; color:rgb(0,114,198)\">red-hawks-video.zip</a></div></td><td width=\"0\" height=\"0\" style=\"display:none; visibility:hidden\"></td></tr></tbody></table></a></td></tr></tbody></table></td></tr></tbody></table></div><div id=\"OwaReferenceAttachmentsEnd\" style=\"display:none; visibility:hidden\"></div><div style=\"font-family:Calibri,Arial,Helvetica,sans-serif; font-size:12pt; color:rgb(0,0,0)\">Mr. President, <div><br></div><div>The marketing team would like to publish a panoramic video of our stadium on social media. Please provide some feedback, so I can tell them if they can do it or not.</div><div>For safety reasons, please download and unzip the attachment file into the Downloads directory.</div><div><br></div>Frederick Balconies<br></div></div></div>",
+                                            "IsTruncated": false
+                                        },
+                                        "Flag": {
+                                            "FlagStatus": "NotFlagged"
+                                        },
+                                        "InstanceKey": "AQAAAAAAAQwBAAAAFOhMAQAAAAA=",
+                                        "EntityExtractionResult": {
+                                            "Urls": [
+                                                {
+                                                    "__type": "UrlEntityType:#Exchange",
+                                                    "Url": "https://1drv.ms/u/s!Aqo92bFDjwdDbK1QjQG_ob008dc",
+                                                    "Position": "LatestReply"
+                                                }
+                                            ]
+                                        },
+                                        "Preview": "Mr. President,\r\n\r\nThe marketing team would like to publish a panoramic video of our stadium on social media. Please provide some feedback, so I can tell them if they can do it or not.\r\nFor safety reasons, please download and unzip the attachment file into",
+                                        "BlockStatus": false,
+                                        "HasBlockedImages": false,
+                                        "ReceivedOrRenewTime": "2021-10-31T15:59:42Z",
+                                        "ConversationThreadId": {
+                                            "__type": "ItemId:#Exchange",
+                                            "Id": "AQQkADAwATNiZmYAZC00MWVhLWM1NQAxLTAwAi0wMAoDJAAQAEwey6dmiMRFmIp5TAjgt9YQAEwey6dmiMRFmIp5TAjgt9Y="
+                                        },
+                                        "Apps": [],
+                                        "InferenceClassification": "Focused",
+                                        "CanDelete": true
+                                    }
+                                ],
+                                "IsRootNode": true
+                            }
+                        ],
+                        "TotalConversationNodesCount": 1,
+                        "LastModifiedTime": null,
+                        "ConversationDiagnosticsInfo": null
+                    },
+                    "ResponseCode": "NoError",
+                    "ResponseClass": "Success"
+                }
+            ]
+        }
+    }
+}
