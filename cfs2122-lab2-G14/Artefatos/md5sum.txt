@@ -1,0 +1,5 @@
+2be65457105ca324381952538fc94de7  supporters_statement.pdf (chant1) errado
+f0882eedb95122f39e692a9397c1f5c5  club_memo.pdf (chant2) certo
+33bd1f8ed5f5692c5bf1e5a87d6110b2  bank_statement.pdf (hbfs) errado
+e02839232a2283ac0843de8ecfc980a0  club_statement.pdf (ticket) certo
+44d015d11ecd0ec4ecaa6cb350032d17  James_Santos_profile.pdf certo
